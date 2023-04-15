@@ -13,7 +13,7 @@ The objective of this project is to create a prototype solution that combines we
 
 ## Directory Structure
 
-- `task1`: Contains the Jupyter Notebook for Task 1 (Defining the issue)
+- `task1`: Contains background information (Defining the issue)
 - `task2`: Contains the Jupyter Notebook for Task 2 (Sourcing data)
 - `task3`: Contains the Jupyter Notebook for Task 3 (Data wrangling)
 - `task4`: Contains the Jupyter Notebook for Task 4 (Modelling using LSTM network model)
