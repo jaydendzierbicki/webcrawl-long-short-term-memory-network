@@ -22,15 +22,7 @@ The objective of this project is to create a prototype solution that combines we
 
 - Python 3.x
 - Jupyter Notebook or JupyterLab
-- Pandas
-- NumPy
-- Scikit-learn
-- TensorFlow
-- Keras
-- Beautiful Soup
-- Requests
-- Matplotlib
-- seaborn
+
 
 ## How to Run
 
@@ -40,6 +32,4 @@ The objective of this project is to create a prototype solution that combines we
 4. Navigate to the desired task folder and open the corresponding Jupyter Notebook.
 5. Run the notebook cells in sequence.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
