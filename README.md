@@ -13,7 +13,7 @@ The objective of this project is to create a prototype solution that combines we
 
 ## Directory Structure
 
-- `task1`: Contains the Jupyter Notebook for Task 1 (Defining the issue)
+- `task1`: Contains background information (Defining the issue)
 - `task2`: Contains the Jupyter Notebook for Task 2 (Sourcing data)
 - `task3`: Contains the Jupyter Notebook for Task 3 (Data wrangling)
 - `task4`: Contains the Jupyter Notebook for Task 4 (Modelling using LSTM network model)
@@ -22,15 +22,8 @@ The objective of this project is to create a prototype solution that combines we
 
 - Python 3.x
 - Jupyter Notebook or JupyterLab
-- Pandas
-- NumPy
-- Scikit-learn
-- TensorFlow
-- Keras
-- Beautiful Soup
-- Requests
-- Matplotlib
-- seaborn
+- Update once complete/produce .txt file as per how to run******
+
 
 ## How to Run
 
@@ -40,6 +33,4 @@ The objective of this project is to create a prototype solution that combines we
 4. Navigate to the desired task folder and open the corresponding Jupyter Notebook.
 5. Run the notebook cells in sequence.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
