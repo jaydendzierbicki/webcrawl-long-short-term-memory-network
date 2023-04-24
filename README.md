@@ -22,7 +22,7 @@ The objective of this project is to create a prototype solution that combines we
 
 - Python 3.x
 - Jupyter Notebook or JupyterLab
-- Update once complete/produce .txt file as per how to run******
+- Update *
 
 
 ## How to Run
